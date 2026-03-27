@@ -1,2 +1,2 @@
-# Working-with-branches
+# Woking with Branches
 we are exploring how branches are utilized
